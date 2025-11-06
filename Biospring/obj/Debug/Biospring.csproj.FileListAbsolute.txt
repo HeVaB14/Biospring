@@ -1,0 +1,13 @@
+C:\Users\Huawei\source\repos\Biospring\Biospring\bin\Debug\Biospring.exe.config
+C:\Users\Huawei\source\repos\Biospring\Biospring\bin\Debug\Biospring.exe
+C:\Users\Huawei\source\repos\Biospring\Biospring\bin\Debug\Biospring.pdb
+C:\Users\Huawei\source\repos\Biospring\Biospring\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Huawei\source\repos\Biospring\Biospring\obj\Debug\Biospring.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\Biospring\Biospring\obj\Debug\Biospring.Home.resources
+C:\Users\Huawei\source\repos\Biospring\Biospring\obj\Debug\Biospring.Properties.Resources.resources
+C:\Users\Huawei\source\repos\Biospring\Biospring\obj\Debug\Biospring.csproj.GenerateResource.cache
+C:\Users\Huawei\source\repos\Biospring\Biospring\obj\Debug\Biospring.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\Biospring\Biospring\obj\Debug\Biospring.csproj.Up2Date
+C:\Users\Huawei\source\repos\Biospring\Biospring\obj\Debug\Biospring.exe
+C:\Users\Huawei\source\repos\Biospring\Biospring\obj\Debug\Biospring.pdb
+C:\Users\Huawei\source\repos\Biospring\Biospring\obj\Debug\Biospring.Vistas.Clientes.resources
